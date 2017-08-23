@@ -32,8 +32,8 @@
     "email" : "vatani.ahmad12@gmail.com",
     "city" : "Tehran"
   },
-  "todos" : [
-    "todoItems" : [
+  "todos": {
+    "todoItems": [
       {
         "id": 1,
         "title" : "Todo Item 1",
@@ -58,8 +58,6 @@
        "body": "some comment",
        "date": "1396/05/20"
       }
-    
     ]
-    
-  ]
+  }
 }
