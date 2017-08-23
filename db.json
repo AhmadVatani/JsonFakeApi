@@ -28,7 +28,8 @@
   "profile": {
     "firstName": "Ahmad",
     "lastName" : "Vatani",
-    "mobileNumber" : "09109904619",
+    "telegramId" : "@AhmadVt",
+    "email" : "vatani.ahmad12@gmail.com",
     "city" : "Tehran"
   }
 }
